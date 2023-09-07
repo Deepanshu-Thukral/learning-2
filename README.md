@@ -2,4 +2,4 @@
 this is my first github file
 <br>
 
-author --Deepanshu Thukral
+author --Deep Thukral
